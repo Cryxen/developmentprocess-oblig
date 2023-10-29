@@ -1,0 +1,10 @@
+@startuml flowchart
+:Deltaker tar eksamen;
+:Hver spørsmål har fire svar alternativer;
+:Deltaker har oversikt og tid og antall besvarte spørsmål;
+:Deltaker leverer eksamen;
+:Deltaker får antall rette, og eventuelt sertifikat på e-post;
+:Deltaker mister sertifikat e-post;
+:Deltaker logger på profilsiden for å late ned sertifikat;
+:Deltaker får lastet ned sertifikat;
+@enduml
